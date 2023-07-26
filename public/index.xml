@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dy-Blogs</title>
+    <link>https://dypersonalblog.web.app/</link>
+    <description>Recent content on Dy-Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 03:00:18 +0000</lastBuildDate><atom:link href="https://dypersonalblog.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Support perspective from Developer</title>
+      <link>https://dypersonalblog.web.app/posts/my-first-post/</link>
+      <pubDate>Sat, 06 Aug 2022 03:00:18 +0000</pubDate>
+      
+      <guid>https://dypersonalblog.web.app/posts/my-first-post/</guid>
+      <description>Landed My First Job Grinded non-stop 6 months , finally landed a job in a well known tech company here in the Philippines
+I Had Expectations: As I was inspired by some known software engineer vloggers in Youtube I expected to solve problems then build the fix and make it a reality
+As what i learned during my 6 month sprint I expected what i was learning was what i was going to experience in work too</description>
+    </item>
+    
+  </channel>
+</rss>
